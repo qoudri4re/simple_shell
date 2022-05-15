@@ -1,7 +1,7 @@
 /*
  * File: linkedlist.c
- * Auth: gifti Daba
- *       Miliyon Befkadu
+ * Auth: Kenneth Onuma
+ *       Abdulqodir Oladimeji
  */
 
 #include "shell.h"
