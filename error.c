@@ -1,7 +1,7 @@
 /*
  * File: errors.c
- * Auth: Gifti Lelisa
- *       Miliyon Befkadu 
+ * Auth: Abdulqodir Oladimeji
+ *       Kenneth Onuma
  */
 
 #include "shell.h"
