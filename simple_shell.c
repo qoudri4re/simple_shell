@@ -1,7 +1,7 @@
 /*
  * File: main.c
- * Auth: Gifti Daba
- *       Miliyon Befkadu 
+ * Auth: Kenneth Onuma
+ *       Abdulqodir Oladimeji
  */
 
 #include "shell.h"
