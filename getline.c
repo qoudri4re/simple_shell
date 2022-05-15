@@ -1,7 +1,7 @@
 /*
  * File: getline.c
- * Auth: Gifti Lelisa
- *       Miliyon Befkadu
+ * Auth: Kenneth Onuma
+ *       Abdulqodir Oladimeji
  */
 
 #include "shell.h"
