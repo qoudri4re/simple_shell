@@ -1,7 +1,7 @@
 /*
  * File: environ.c
- * Auth: Miliyon Befkadu
- *       Gifti Lelisa
+ * Auth: Kenneth Onuma
+ *       Abdulqodri Oladimeji
  */
 
 #include "shell.h"
