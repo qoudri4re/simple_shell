@@ -2,8 +2,8 @@
 
 /*
  * File: str_funcs2.c
- * Auth: Miliyon Befkadu
- *       Gifti daba 
+ * Auth: Abdulqodir Oladimeji
+ *       Kenneth Onuma
  */
 
 
