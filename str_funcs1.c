@@ -1,7 +1,7 @@
 /*
  * File: str_funcs1.c
- * Auth: Gifti daba
- *       Miliyon Befkadu 
+ * Auth: Abdulqodir Oladimeji
+ *       Kenneth Onuma
  */
 
 #include "shell.h"
