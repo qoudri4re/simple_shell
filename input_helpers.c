@@ -1,7 +1,7 @@
 /*
  * File: input_helpers.c
- * Auth: Gifti daba
- *       Miliyon Befkadu
+ * Auth: Kenneth Onuma
+ *       Abdulqodir Oladimeji
  */
 
 #include "shell.h"
