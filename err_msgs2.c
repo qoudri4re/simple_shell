@@ -1,7 +1,7 @@
 /*
  * File: err_msgs2.c
- * Auth: Miliyon Befkadu
- *       Gifti Lelisa
+ * Auth: Abdulqodir Oladimeji
+ *       Kenneth Onuma
  */
 
 #include "shell.h"
