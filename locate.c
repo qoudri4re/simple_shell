@@ -1,7 +1,7 @@
 /*
  * File: locate.c
- * Auth: Gifti Daba
- *       Miliyon Befkadu
+ * Auth: Kenneth Onuma
+ *       Abdulqodir Oladimeji
  *       
  */
 
